@@ -1,0 +1,31 @@
+
+FLEXIMART DATA QUALITY REPORT
+Generated: 2026-01-08 15:35:21
+Database: MySQL
+============================================================
+
+CUSTOMERS:
+- Records processed: 26
+- Duplicates removed: 5
+- Missing values handled: 1
+- Records loaded successfully: 0
+
+PRODUCTS:
+- Records processed: 20
+- Duplicates removed: 0
+- Missing values handled: 4
+- Records loaded successfully: 20
+
+SALES:
+- Records processed: 41
+- Duplicates removed: 1
+- Missing values handled: 0
+- Records loaded successfully: 39
+============================================================
+
+SUMMARY:
+- Total records processed: 87
+- Total duplicates removed: 6
+- Total missing values handled: 5
+- Total records loaded successfully: 59
+============================================================
